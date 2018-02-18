@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26a69a</color>
+    <color name="colorPrimaryDark">#00766c</color>
+    <color name="colorAccent">#64d8cb</color>
+    <color name="warnaPutih">#FFF</color>
+    <color name="colorAgakPutih">#DDD</color>
+    <color name="colorProfileName">#444</color>
+    <color name="colorBgBottom">#e5e5e5</color>
+    <color name="colorBgTop">#40a7e2</color>
+</resources>
